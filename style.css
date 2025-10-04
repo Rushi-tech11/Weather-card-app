@@ -6,7 +6,7 @@
 }
 body{
     background: #222;
-    /* background: #00feba; */
+   
     
 }
 .card{
@@ -58,7 +58,7 @@ body{
 .search button img{
     width: 30px;
     filter: invert(1);
-    /* align-items: center; */
+   
 
 }
 .weather-icon{
