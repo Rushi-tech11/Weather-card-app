@@ -37,11 +37,15 @@ This application fetches real-time weather data using a Weather API and displays
 ```bash
 Weather-card-app/
 │
+├── screenshots/
+│   ├── desktop.png
+│   └── mobile.png
+│
 ├── images/
+├── README.md
 ├── index.html
-├── style.css
 ├── index.js
-└── README.md
+└── style.css
 ```
 
 ---
