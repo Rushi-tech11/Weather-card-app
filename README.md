@@ -6,7 +6,7 @@ This application fetches real-time weather data using a Weather API and displays
 ---
 
 # 🚀 Live Demo
-
+https://rushi-tech11.github.io/Weather-card-app/
 
 
 ---
